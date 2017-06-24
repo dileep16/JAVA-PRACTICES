@@ -11,6 +11,7 @@ class lab2 {
     	{
     		secondlargest=largest;
     		largest=arr[i];
+// this is comment line
     		
     	}
     }
