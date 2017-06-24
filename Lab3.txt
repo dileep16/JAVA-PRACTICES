@@ -1,0 +1,11 @@
+class Lab2
+{
+public static void main(String as[])
+{
+   int arr[]={12,23,44,55,33,90};
+   int largest=arr[0];
+   int secondlargest=arr[0];
+   if(largest>arr[0])
+{
+  secondlargest=largest;
+   largest=arr[0]
