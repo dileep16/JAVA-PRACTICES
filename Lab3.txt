@@ -6,6 +6,6 @@ public static void main(String as[])
    int largest=arr[0];
    int secondlargest=arr[0];
    if(largest>arr[0])
-{
+{///this is best program..
   secondlargest=largest;
    largest=arr[0]

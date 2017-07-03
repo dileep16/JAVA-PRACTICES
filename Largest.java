@@ -12,7 +12,7 @@ class lab2 {
     		secondlargest=largest;
     		largest=arr[i];
 // this is comment line
-    		
+    	/// ballu is java deee	
     	}
     }
     System.out.println("the second largest no. is...:"+secondlargest);
